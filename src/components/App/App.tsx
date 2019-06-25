@@ -1,11 +1,12 @@
 import React from 'react';
-import logo from '../logo.svg';
 import '../../Themes/App.css';
+import { AppBar } from '@material-ui/core';
 
 const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
+        <AppBar >TEST</AppBar>
       </header>
     </div>
   );
