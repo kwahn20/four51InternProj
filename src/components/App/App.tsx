@@ -7,6 +7,7 @@ const App: React.FC = () => {
     <div className="App">
       <header className="App-header">
         <AppBar >TEST123</AppBar>
+        <h1>Welcome to PowerPaint Presentations</h1>
       </header>
     </div>
   );
